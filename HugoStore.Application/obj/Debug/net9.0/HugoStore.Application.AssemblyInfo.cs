@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HugoStore.Domain")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HugoStore.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9266f400686c6f5f3217a537295cbdbd094de13")]
-[assembly: System.Reflection.AssemblyProductAttribute("HugoStore.Domain")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HugoStore.Domain")]
+[assembly: System.Reflection.AssemblyProductAttribute("HugoStore.Application")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HugoStore.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
