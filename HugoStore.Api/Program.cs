@@ -10,7 +10,7 @@ var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContext>(s =>
 {
-    s.UseSqlServer(connectionString, b => b.MigrationsAssembly("HugoStore.Api"));
+    s.UseSqlServer(connectionString, b => b.MigrationsAssembly("HugoStore.Infrastructure"));
 });
 
 builder.Services.AddApplication();

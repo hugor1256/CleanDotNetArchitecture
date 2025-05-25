@@ -1,0 +1,12 @@
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\bin\Debug\net9.0\HugoStore.Domain.deps.json
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\bin\Debug\net9.0\HugoStore.Domain.dll
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\bin\Debug\net9.0\HugoStore.Domain.pdb
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\obj\Debug\net9.0\HugoStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\obj\Debug\net9.0\HugoStore.Domain.AssemblyInfoInputs.cache
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\obj\Debug\net9.0\HugoStore.Domain.AssemblyInfo.cs
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\obj\Debug\net9.0\HugoStore.Domain.csproj.CoreCompileInputs.cache
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\obj\Debug\net9.0\HugoStore.Domain.sourcelink.json
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\obj\Debug\net9.0\HugoStore.Domain.dll
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\obj\Debug\net9.0\refint\HugoStore.Domain.dll
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\obj\Debug\net9.0\HugoStore.Domain.pdb
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Domain\obj\Debug\net9.0\ref\HugoStore.Domain.dll

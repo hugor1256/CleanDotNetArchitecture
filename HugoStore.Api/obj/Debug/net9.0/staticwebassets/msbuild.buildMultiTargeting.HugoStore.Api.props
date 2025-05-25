@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HugoStore.Api.props" />
+</Project>

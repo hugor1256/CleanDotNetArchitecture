@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8DsqRM3ihAOmpk19CNpe2iVKUR6kLu4HogOb6WiRf+g=",
+  "Source": "HugoStore.Api",
+  "BasePath": "_content/HugoStore.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

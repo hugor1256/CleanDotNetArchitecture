@@ -1,0 +1,16 @@
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\bin\Debug\net9.0\HugoStore.Application.deps.json
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\bin\Debug\net9.0\HugoStore.Application.dll
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\bin\Debug\net9.0\HugoStore.Application.pdb
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\bin\Debug\net9.0\HugoStore.Domain.dll
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\bin\Debug\net9.0\HugoStore.Domain.pdb
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\HugoStore.Application.csproj.AssemblyReference.cache
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\HugoStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\HugoStore.Application.AssemblyInfoInputs.cache
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\HugoStore.Application.AssemblyInfo.cs
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\HugoStore.Application.csproj.CoreCompileInputs.cache
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\HugoStore.Application.sourcelink.json
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\HugoStor.464B2AA9.Up2Date
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\HugoStore.Application.dll
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\refint\HugoStore.Application.dll
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\HugoStore.Application.pdb
+D:\Repositorios\Hugo\CleanDotNetArchitecture\HugoStore.Application\obj\Debug\net9.0\ref\HugoStore.Application.dll
