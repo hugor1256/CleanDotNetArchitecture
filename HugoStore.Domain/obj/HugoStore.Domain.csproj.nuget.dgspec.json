@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorios\\Hugo\\CleanDotNetArchitecture\\HugoStore.Domain\\HugoStore.Domain.csproj": {}
+    "D:\\Repositorio\\CleanDotNetArchitecture\\HugoStore.Domain\\HugoStore.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Repositorios\\Hugo\\CleanDotNetArchitecture\\HugoStore.Domain\\HugoStore.Domain.csproj": {
+    "D:\\Repositorio\\CleanDotNetArchitecture\\HugoStore.Domain\\HugoStore.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorios\\Hugo\\CleanDotNetArchitecture\\HugoStore.Domain\\HugoStore.Domain.csproj",
+        "projectUniqueName": "D:\\Repositorio\\CleanDotNetArchitecture\\HugoStore.Domain\\HugoStore.Domain.csproj",
         "projectName": "HugoStore.Domain",
-        "projectPath": "D:\\Repositorios\\Hugo\\CleanDotNetArchitecture\\HugoStore.Domain\\HugoStore.Domain.csproj",
-        "packagesPath": "C:\\Users\\hmartins\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorios\\Hugo\\CleanDotNetArchitecture\\HugoStore.Domain\\obj\\",
+        "projectPath": "D:\\Repositorio\\CleanDotNetArchitecture\\HugoStore.Domain\\HugoStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\Hugo Rezende Martins\\.nuget\\packages\\",
+        "outputPath": "D:\\Repositorio\\CleanDotNetArchitecture\\HugoStore.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\hmartins\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Hugo Rezende Martins\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://repo.ms.gov.br/repository/nuget-group/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -67,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Hugo Rezende Martins\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
