@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HugoStore.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d6186d6b777d6951426ed66b131a502780b0bf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9beb383dfd4a27bcefce3607dabcaba6b70b1810")]
 [assembly: System.Reflection.AssemblyProductAttribute("HugoStore.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HugoStore.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

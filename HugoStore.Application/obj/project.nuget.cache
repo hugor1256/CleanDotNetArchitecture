@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/fQM8Kp2/ls=",
+  "dgSpecHash": "5xvsuEXvkk8=",
   "success": true,
-  "projectFilePath": "D:\\Repositorio\\CleanDotNetArchitecture\\HugoStore.Application\\HugoStore.Application.csproj",
+  "projectFilePath": "D:\\Repositorios\\Hugo\\CleanDotNetArchitecture\\HugoStore.Application\\HugoStore.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Hugo Rezende Martins\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
-    "C:\\Users\\Hugo Rezende Martins\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
-    "C:\\Users\\Hugo Rezende Martins\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\hmartins\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\hmartins\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\hmartins\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
