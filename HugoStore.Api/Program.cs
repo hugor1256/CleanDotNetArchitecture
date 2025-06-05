@@ -32,4 +32,18 @@ app.MapGet("v1/products/{id}", async (
     return result.IsSuccess ? Results.Ok(result.Value) : Results.BadRequest(result.Error);
 });
 
+app.MapPost("v1/products", async (
+        ISender sender,
+        HugoStore.Application.UseCases.Products.Create.Command command,
+        CancellationToken cancelationToken)
+    =>
+{
+    var result = await sender.Send(command, cancelationToken);
+
+    return result.IsSuccess
+        ? Results.Ok(result.Value)
+        : Results.BadRequest(result.Error);
+});
+
+
 app.Run();
